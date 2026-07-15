@@ -1,3 +1,9 @@
 # Ignore the dataset file
 train_test_network.csv
-
+IoT_Fridge.csv
+IoT_Garage_Door.csv
+IoT_GPS_Tracker.csv
+IoT_Modbus.csv
+IoT_Motion_Light.csv
+IoT_Thermostat.csv
+IoT_Weather.csv
