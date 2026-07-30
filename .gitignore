@@ -1,3 +1,5 @@
 # Ignore the dataset file
 train_test_network.csv
 
+CVE_CWE_2025.csv
+.ipynb_checkpoints/
