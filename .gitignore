@@ -1,4 +1,5 @@
 # Ignore the dataset file
+/original_dataset
 train_test_network.csv
 
 CVE_CWE_2025.csv
